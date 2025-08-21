@@ -17,7 +17,5 @@ def caeser_shift(message,shift): #define a funtion to put message and shift the 
             result += char
     print(result)
 caeser_shift("Hello,World" ,7)
-caeser_shift("Abhay is Black" ,4)
-caeser_shift("Kashif is Nepali" ,6)
-caeser_shift("Ali is Afgani" ,3)
-#Hope Everyone Understood Caeser_Cypher Using Python its just small code lol ill be putting in Github; 
+
+#Hope Everyone Understood Caeser_Cypher Using Python its just small code lol..
